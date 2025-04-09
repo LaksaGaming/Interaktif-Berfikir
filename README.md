@@ -4,7 +4,7 @@ Mari Berfikir Bersama
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta LAKSMANA="viewport" content="width=device-width, initial-scale=1.0">
   <title>Website Keren</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -20,7 +20,7 @@ Mari Berfikir Bersama
       </ul>
     </nav>
     <div class="hero">
-      <h1>Selamat Datang di WebKeren</h1>
+      <h1>Selamat Datang di Web saya Laksmana</h1>
       <p>Kami membuat website modern & responsif.</p>
       <a href="#" class="cta">Pelajari Lebih Lanjut</a>
     </div>
